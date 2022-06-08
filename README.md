@@ -5,6 +5,6 @@
 
 <p>Collaborators</p>
 <ul>
-  <li>Marcela Carrasco</li>
-  <li>Alejandro Senges</li>
+  <li><a href="https://github.com/mcarrascopiaggio/">Marcela Carrasco</a></li>
+  <li><a href="https://github.com/asenges/">Alejandro Senges</a></li>
 </ul>
