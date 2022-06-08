@@ -1,0 +1,5 @@
+#!/bin/bash
+chmod -R 777 *
+git add .
+git commit -m "0x1B. C - Sorting algorithms & Big O"
+git push --set-upstream origin main
