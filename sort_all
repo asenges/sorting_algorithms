@@ -4,6 +4,10 @@ printf "##### Bubble sort #####\n"
 printf "\n"
 ./bubble_alex
 printf "\n"
+printf "##### Insertion sort #####\n"
+printf "\n"
+./insertion_marce
+printf "\n"
 printf "##### Selection sort #####\n"
 printf "\n"
 ./select_alex
