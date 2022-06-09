@@ -1,0 +1,14 @@
+#!/bin/bash
+printf "\n"
+printf "##### Bubble sort #####\n"
+printf "\n"
+./bubble_alex
+printf "\n"
+printf "##### Selection sort #####\n"
+printf "\n"
+./select_alex
+printf "\n"
+printf "##### Quick sort #####\n"
+printf "\n"
+./quick_alex
+printf "\n"
