@@ -1,0 +1,3 @@
+O(n) - En el mejor de los casos está ordenado y lo recorre solo una vez
+AVERAGE
+O(n^2) - En el peor de los casos lo recorre i * j veces
