@@ -24,4 +24,5 @@ void quick_sort(int *array, size_t size);
 void swap(int *a, int *b);
 long int partition(int *array, long int low, long int high, size_t size);
 void quick_sort_extended(int *array, long int low, long int high, size_t size);
+void shell_sort(int *array, size_t size);
 #endif
